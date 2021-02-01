@@ -1,2 +1,3 @@
 # Mgregchi
-Git-expo
+
+### Hello, my name is Michael Amadi. 
