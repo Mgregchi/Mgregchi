@@ -15,5 +15,6 @@ Michael Amadi (mgregchi).
 
 ## APPS
 
-- [vidtub-e](https://vidtub-e.herokuapp.com)
+- [vidtub-e](https://vidtub-e.ml.com)
+- [cryptoin](https://cryptoin.mgregchi.tk)
     
