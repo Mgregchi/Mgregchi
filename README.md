@@ -1,7 +1,7 @@
 # Mgregchi
 
 <p align="center">
-  <img width="30%" src="https://www.mgregchi.tk/images/me-bw-02.jpeg" style="border-radius: 50%">
+  <img width="30%" src="https://www.mgregchi.tk/images/me-bw-02.jpegj" style="border-radius: 50%">
 </p>
 
 
