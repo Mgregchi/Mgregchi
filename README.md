@@ -17,6 +17,6 @@ Currently a Holberton School, software engineering student, ALX (cohort 9).
 - [GoogleDev](https://g.dev/mgregchi)
 ## APPS
 
-- [vidtub-e](https://vidtub-e.ml.com)
-- [cryptoin](https://cryptoin.mgregchi.tk)
-    
+- [Vidtub-e](https://vidtub-e.ml.com)
+- [Cryptoin](https://cryptoin.mgregchi.tk)
+- [Vybeet](https://vybeet.com)
