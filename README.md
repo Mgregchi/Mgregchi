@@ -8,7 +8,9 @@
 ```
 Hello, my name is
 Michael Amadi (mgregchi).
+Currently a Holberton School, software engineering student, ALX (cohort 9).
 ```
+
 - [LinkedIn](https://www.linkedin.com/in/michael-amadi-15687811b)
 - [Twitter](https://twitter.com/mgregchi02)
 - [Stackoverflow](https://stackoverflow.com/users/14000587/)
