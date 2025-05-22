@@ -1,17 +1,7 @@
 # Mgregchi
 **Michael Amadi** 
 
-I am a software developer with a passion for computer technology and a strong background in building websites and web applications. I enjoy the challenge of testing and debugging software to ensure it is of the highest quality, and I am always looking for new opportunities to grow and improve my skills. In my free time, you can find me tinkering with new software and hardware, or diving into online communities to learn from my peers. I am excited to share my projects and collaborate with others on Github.
-
-## Skills:
-
-- Web development (HTML, CSS, JavaScript, Twitter Bootstrap, JQuery, React)
-
-- Back-end development (Python, NodeJs, PHP)
-
-- Databases (MySQL, MongoDB, )
-
-- Git and version control
+A product and solution driven software developer.
 
 ## Languages: 
 
@@ -19,10 +9,13 @@ I am a software developer with a passion for computer technology and a strong ba
 
 - Javascript
 
+- TypeScript
+
 - C
 
 - PHP
 
+- Java
 
 <p align="center">
   <img width="30%" rc="https://www.mgregchi.tk/images/me-bw-02.jpegj" style="border-radius: 50%">
