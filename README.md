@@ -30,6 +30,11 @@ A product and solution driven software developer.
 
 ## APPS
 
-- [Vidtub-e](https://vidtub-e.ml.com)
+- [Vidtub-e](https://vidtube-2z3d.onrender.com)
 - [Cryptoin](https://cryptoin.mgregchi.tk)
+- [ideynearby](https://ideynearby.onrender.com)
+- [ideywatch](https://ideywatch.vercel.app)
+- [Live-Type](https://live-type.onrender.com)
+- [Swipe Meet](https://swipe-meet.vercel.app)
+- [Ideyonline](https://ideyonline.netlify.app)
 - [Vybeet](https://vybeet.com)
