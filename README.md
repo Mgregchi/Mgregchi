@@ -11,11 +11,13 @@ A product and solution driven software developer.
 
 - TypeScript
 
+- Dart
+
+- Java
+
 - C
 
 - PHP
-
-- Java
 
 <p align="center">
   <img width="30%" rc="https://www.mgregchi.tk/images/me-bw-02.jpegj" style="border-radius: 50%">
@@ -30,6 +32,7 @@ A product and solution driven software developer.
 
 ## APPS
 
+- [IdeyClick](https://idey.click)
 - [Vidtub-e](https://vidtube-2z3d.onrender.com)
 - [Cryptoin](https://cryptoin.mgregchi.tk)
 - [ideynearby](https://ideynearby.onrender.com)
